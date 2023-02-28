@@ -1,0 +1,1009 @@
+,authors
+0,Iacopo Pozzana
+1,George Lifchits
+2,David Garcia 
+3,Manikumar Perla
+4,Juhi Kulshrestha
+5,Mirko Reul
+6,Masoomali Fatehkia
+7,Fiona Murray
+8,Chris Tokita
+9,Sandy Pentland
+10,Judith Moeller
+11,Mitsuhiro Odaka
+12,Gianmarco De Francisci Morales
+13,Farhana Ferdousi Liza
+14,Nina Savela
+15,Mohamed Musbah
+16,Florian Lemmerich
+17,Yizhi Jing
+18,Joyojeet Pal 
+19,Alexandra Olteanu
+20,Kimmo Kaski
+21,Balazs Lengyel
+22,David Jurgens
+23,Simon Walk
+24,Sicheng Dai
+25,Alina Vogelgesang
+26,Hanna Wallach
+27,Yang Wang
+28,Ingmar Weber
+29,Chico Camargo
+30,Brent D. Fegley
+31,Takanori Nishida
+32,Georgios Anagnostopoulos
+33,Iain Couzin
+34,Matteo Magnani
+35,Akira Ishii
+36,Oliver Hohlfeldt
+37,Mason A. Porter
+38,Sander Scholtus
+39,Abe Hofman
+40,Christa Brelsford
+41,Hanno Friedrich
+42,Gary Fireman
+43,Simon Schweighofer
+44,Andrea Ballatore
+45,Kinga Makovi
+46,Hélène Bouchet
+47,Marina Petrova
+48,Helge Reelfs
+49,Yizhou Sun
+50,Markus Strohmaier
+51,Johan Koskinen
+52,Riccardo Di Clemente
+53,Jessica Hullman
+54,Javier Garcia-Bernardo
+55,Carlos Rodriguez Sickert
+56,Philip Leifeld
+57,Shawnna Mullenax
+58,Morgan Frank
+59,Angelo Cardoso
+60,Neda B. Hajiakhoond 
+61,Roberta Sinatra
+62,Daniel Villatoro
+63,Marco Brambilla
+64,Abhishek Samantray
+65,Tyler Amos
+66,Jakob Jünger
+67,Tomasz P. Michalak
+68,Steve R. Scheinert
+69,Benjamin Vandermarliere
+70,Henry Smart III
+71,Ludo Waltman
+72,Jérémie Rappaz
+73,Dirk Van Rooy
+74,Richard Zemel
+75,Theresa Gessler
+76,Sai Hitesh Jonnalagadda
+77,Sanja Hajdinjak
+78,Madeline Schiappa
+79,Hendrik Heuer
+80,Alfredo Morales
+81,Andreia Sofia Teixeira
+82,Alex Pentland
+83,Ece Mutlu
+84,Hang-Hyun Jo
+85,Jasser Jasser
+86,Yifan Qian
+87,Gordon Pennycook
+88,Vincent Buskens
+89,Fredrik Jansson
+90,Kimmo Eriksson
+91,Galina Daraganova 
+92,Janina Beckmann
+93,Yuan Tian
+94,Christo Wilson
+95,Leila Zia
+96,Flavio Pinheiro 
+97,Nikolas Zöller
+98,Jens Hainmueller
+99,Silke Adam
+100,Lorien Jasny
+101,Michiel Bakker
+102,Chathika Gunaratne
+103,Mohsen Mosleh
+104,Chathurani Senevirathna
+105,Kai Zhou
+106,George Pallis
+107,Camille Roth
+108,Gustavo Jota Resende
+109,Joseph Bak-Coleman
+110,Krishna Gummadi
+111,Johannes Gruber
+112,Joris Broere
+113,Daniel Goldstein
+114,Lushi Chen
+115,Matthieu Brinkhuis
+116,Yasuko Kawahata
+117,Gabriela Molina León
+118,David Rozado
+119,Dean Eckles
+120,Iyad Rahwan 
+121,Mikko Kivelä
+122,Binglu Wang
+123,Dieter Wang
+124,Nees Jan Van Eck
+125,Tom Broekel
+126,Milan van den Heuvel
+127,Kirk Bansak
+128,Duncan Watts 
+129,Wei Lee Woon
+130,Casper Albers
+131,Johan Ugander
+132,Claudia Wagner
+133,Melissa Ellamil
+134,Eduardo Graells-Garrido
+135,Angel Sánchez
+136,Laura Bringmann
+137,Oren Lederman
+138,Marcin Waniek
+139,Johan Bollen
+140,Dong Nguyen
+141,Adina Nerghes
+142,Oana Vuculescu
+143,Alexandre P Francisco
+144,Hywel Williams
+145,Joanna Sterling
+146,Gianluca Carnabuci
+147,Emre Calisir
+148,Nuria Oliver
+149,Ben Thies
+150,Onyi Lam
+151,Johannes Wachs
+152,Florianne Verkroost
+153,Rense Corten
+154,Milena Tsvetkova 
+155,Christos Nicolaides
+156,Loretta Auvil
+157,Subhayan Mukerjee
+158,Jan van de Laan
+159,Jussara Almeida
+160,Taha Yasseri
+161,Albert Laszlo Barabasi
+162,Abigail Jacobs
+163,Ethan Bernstein
+164,Lukas Fervers
+165,Jisun An
+166,Cristian Candia Vallejos
+167,Devyani Parameshwar
+168,Rachel Winter
+169,Adam Pah and Brian Uzzi
+170,Federico Battiston
+171,Michael Mauskapf
+172,David Schoch 
+173,Esteban Moro
+174,Sunandan Chakraborty
+175,Reham Al Tamime
+176,Abhijnan Chakraborty
+177,Aurelie Nardy
+178,Philippa Shoemark
+179,Chao Min
+180,Ulrich Matter
+181,Hernan Makse
+182,Anna Shirokanova
+183,Yifang Ma
+184,Philipp Hövel
+185,Fernando P. Santos
+186,Fabrizio Germano
+187,Dan Goldstein
+188,Zachary Neal
+189,William Rand
+190,Isak Ladegaard
+191,David Darmon 
+192,Peter Barbrook-Johnson
+193,Santo Fortunato
+194,Judith Kas
+195,Alexandra Pang
+196,César Hidalgo
+197,Ylli Prifti
+198,Luis Amaral
+199,Jan Overgoor
+200,Souvik Ghosh
+201,Gabriel Fair 
+202,Laszlo Lorincz
+203,Lisette Espín-Noboa
+204,Jacob Miller
+205,Manuel Cebrian
+206,Ridhi Kashyap 
+207,Yannick Léo
+208,Daniele Silvestro
+209,Filippo Radicchi
+210,John T. Murphy
+211,Lada Adamic
+212,Rebekah Tromble
+213,Jaime Oliver
+214,Geoffrey Canright
+215,John Hagan
+216,Joachim Piepenburg
+217,Lovro Šubelj
+218,Dr
+219,Antonio Arechar
+220,Nitin Bhushan
+221,Aamena Alshamsi
+222,Sara Encanaçao
+223,Marco De Nadai
+224,János Kertész
+225,Charles Howland
+226,Thomas Baudin
+227,Morgan R. Frank
+228,David Schoch
+229,Abdullah Almaatouq
+230,Aleksandra Urman
+231,Ronald Robertson
+232,David Rand
+233,Talal Rahwan
+234,Marios Dikaiakos
+235,Chathika Gunaratne 
+236,Kayla de la Haye
+237,Kirill Martynov
+238,Marcel Wittich
+239,Jacob G. Foster
+240,Luca Maria Aiello
+241,Swapnil Gavade
+242,Andreas Breiter
+243,Meeyoung Cha
+244,Gabor Bekes
+245,Pontus Strimling
+246,Milad Abbasiharofteh
+247,Ramona Roller
+248,Tian Yang
+249,Heather Keathley
+250,Mark Musen
+251,Dashun Wang
+252,Diego Pérez
+253,Dimitrios Milioris
+254,Jean-Pierre Chevrot
+255,Susumu Nagayama
+256,Dashun Wang 
+257,Luis M. Rocha
+258,Marisa Vasconcelos
+259,Kai Larsen
+260,Sandro Lera
+261,Xiaowen Dong
+262,Jaehyuk Park
+263,Zhifan Luo
+264,Marijn ten Thij
+265,Erdem Yörük
+266,Han van der Maas
+267,Federico Musciotto
+268,Michael Conover
+269,Benjamin Meindl
+270,Alex Rutherford
+271,Lu Liu
+272,Petter Törnberg
+273,Chao Min 
+274,Bruno Lepri
+275,Bernard Rimé
+276,Yian Yin
+277,Omar Guerrero
+278,Ivan Garibay
+279,Ching Jin
+280,Yoshiki Ishikawa
+281,James Gleeson
+282,Nadia Metoui
+283,Cornelius Puschmann
+284,Ravi Bhavnani
+285,Luke Stark
+286,Fırat Duruşan
+287,Alexandre Bovet
+288,Marita Jacob
+289,Uma Maheswari Gollapudi
+290,Fabian Flöck
+291,Qiusi Sun
+292,Ming Yin
+293,Yang Yang
+294,Philipe Melo
+295,David Garcia
+296,Cristian Jara Figueroa
+297,Spencer Hommel
+298,Antonio Molins
+299,Aliakbar Akbaritabar
+300,Vadake Narayanan
+301,Wouter van Atteveldt
+302,Johannes Bjelland
+303,Ramon Gras
+304,Hitoshi Mitsuhashi
+305,Philipp Lorenz-Spreen
+306,Dimosthenis Stefanidis
+307,Aniko Hannak 
+308,Brian Uzzi
+309,Marc-Etienne Brunet
+310,Ivan Smirnov
+311,Ridhi Kashyap
+312,James Evans
+313,Samaneh Saadat
+314,Flavio Pinheiro
+315,Sandra Gonzalez-Bailon
+316,Stiene Praet
+317,Ziv Epstein
+318,Adam Hughes
+319,Jorinde van de Vis
+320,Francisco C. Santos
+321,Chris Janssen
+322,James P. Gleeson
+323,Alejandro Noriega Campero
+324,Robert Stelter
+325,Sune Lehmann Jørgensen
+326,Jonathan H. Morgan
+327,Bogdan State
+328,Yong-Yeol Ahn
+329,Telmo Menezes
+330,Daniel Ciganda
+331,Maria Wolters
+332,Sune Lehmann
+333,Chathura Jayalath
+334,Nate Dwyer
+335,Jieyu Ding
+336,Manoel Horta Ribeiro
+337,Tarunima Prabhakar
+338,Yupeng Gu
+339,Jennifer Fest
+340,Bernard Koch
+341,Olivia Newton
+342,Tarik Roukny
+343,Vincenz Frey
+344,Manlio De Domenico
+345,Tamás Rudas
+346,Stella Neumann
+347,Jesse Shore
+348,Alejandro Espinosa-Rada
+349,Bedoor Alshebli
+350,Pei Zhou
+351,Shubhanshu Mishra
+352,Dmitry Zinoviev
+353,William Cai
+354,Olga Silyutina
+355,Eszter Bokanyi
+356,Satyam Mukherjee
+357,Fernando Diaz
+358,Walid Magdy
+359,Linda Steg
+360,Gian Maria Campedelli
+361,Hartmut Wessler
+362,David Lazer
+363,Maria Bolsinova
+364,Scott Hale
+365,David Adelani
+366,Sait Bayrakdar
+367,Abigail Horn
+368,David Gefen
+369,Bernardo Garcia Bulle
+370,Henk Stoof
+371,Adam Pah
+372,Elissa M. Redmiles
+373,Wojtek Przepiorka
+374,Kiran Garimella
+375,Joseph Bajjalieh
+376,Amit Sharma
+377,Diego Saez-Trumper
+378,Yevgeniy Vorobeychik
+379,Jeremy Burke
+380,Mel Stanfill
+381,Kristina Gligoric
+382,Alessandro Provetti
+383,Ricardo Buera Corchón
+384,Márton Karsai
+385,Jichao Li
+386,Andrew King
+387,Gergő Tóth
+388,Henry Smart Iii
+389,Scott Althaus
+390,Edwin de Jonge
+391,Yerka Freire-Vidal
+392,Yohsuke Murase
+393,David Martens
+394,Eric Fleury
+395,Mykola Makhortykh
+396,Milan Janosov
+397,Luca Verginer
+398,Daniele Guariso
+399,Anastasia Salter
+400,Quinten Meertens
+401,Alexander Robertson
+402,Cesar Hidalgo
+403,Yan Leng
+404,Atte Oksanen
+405,Timo Hartmann
+406,Kangsan Lee
+407,Duncan Watts
+408,Hyejin Youn
+409,Vincent Antonio Traag
+410,Hendrik Nunner
+411,Fabrício Benevenuto
+412,Joana Mendonça
+413,Daniel Larremore
+414,Chung-Hong Chan
+415,Max Pellert
+416,Jana Diesner
+417,David Rothschild
+418,Nicolas Todd
+419,Brigitta Németh
+420,Martin Hilbert
+421,Gita Sukthankar
+422,Kasper Welbers
+423,Azadeh Nematzadeh
+424,Felix Victor Münch
+425,Frank van der Wouden
+426,Yelena Mejova
+427,Rudy Arthur
+428,Isaac Waller
+429,Arnout van Delden
+430,Zoltán Kmetty
+431,Iyad Rahwan
+432,Jennifer Allen
+433,Yuan Yuan
+434,Jonathan Bright
+435,Pradip Swarnakar
+436,Justin Chun-Ting Ho 
+437,Juan Mateos-Garcia
+438,Alex Pentland 
+439,Daniel Rubenstein
+440,Gunter Maris
+441,Markus Mobius
+442,Bedoor AlShebli 
+443,Yi Bu
+444,Jianjun Sun
+445,Ali Faqeeh
+446,Ying Ding
+447,Daniele Romanini
+448,Michaela Maier
+449,Daniele Quercia
+450,Kokil Jaidka
+451,Milena Tsvetkova
+452,Peter Van Aelst
+453,Mahmoudreza Babaei
+454,Johnnatan Messias
+455,Xi Zhang
+456,Simon A. Levin
+457,Stefan Wojcik
+458,Tara Sowrirajan
+459,Tim Henrichsen
+460,Sebastian Deri
+461,Koen Schoors
+462,Diego Garlaschelli
+463,Giovanna Miritello
+464,Yaneer Bar-Yam
+465,Marco Schmitt
+466,Nicos Nicolaou
+467,Sophie Cho
+468,Clara Christner
+469,Joseph D. O Brien
+470,Christina Bouwens
+471,Ju-Sung Lee
+472,Rahul Arulkumaran
+473,Massimo Riccaboni
+474,Lisa Merten
+475,Jennifer Wortman Vaughan
+476,Antonio Lima
+477,Alina Arseniev-Koehler
+478,Aleksandra Nenko
+479,Alexander Mantzaris
+480,Jingwen Zhang
+481,Jake Hofman
+482,Muyang Li
+483,Vetle I. Torvik
+484,Robert West
+485,Bjarke Mørch Mønsted
+486,Anna May
+487,Dana Fisher
+488,Frank Schweitzer
+489,Yphtach Lelkes
+490,Lijun Sun
+491,Takayuki Mizuno
+492,Zijian Wang
+493,Edgar Morales Ramírez
+494,Ashton Anderson
+495,Janos Kertesz
+496,Riccardo Gallotti
+497,Marta González
+498,C. Lee Giles
+499,Anna Di Natale
+500,Janos Török
+501,Júlia Koltai
+502,Stephen M. Fiore
+503,Gabriella Kazai
+504,Kyriacos Vitalis
+505,Barbara McGillivray
+506,Gomez Vicenç
+507,Carlos Sarraute
+508,Marta Rivera-Alba
+509,Çağrı Yoltar
+510,Ali Hürriyetoğlu
+511,Anamaria Berea
+512,George Vega Yon
+513,Elizabeth Bruch
+514,Hee Youn Kwon
+515,Damian Trilling
+516,Tobias Schröder
+517,Simone Centellegher
+518,Irina Vartanova
+519,Ian Wood
+520,Forough Poursabzi-Sangdeh
+521,Hugo Sousa
+522,Nisha Baral
+523,Gael Le Mens
+524,Pietro Panzarasa 
+525,Aniko Hannak
+526,George Richardson
+527,Axel Bruns
+528,Frank Takes
+529,Ioannis K. Dassios
+530,Davide Vega
+531,Sharon Goldwater
+532,Przemyslaw Grabowicz
+533,Gerardo Iñiguez
+534,Amirarsalan Rajabi
+535,Ivan Garibay 
+536,Arnout van de Rijt
+537,Pasquale De Meo
+538,Avidit Acharya
+539,Andrea Cavicchini
+540,Karsten Donnay
+541,Eelke Heemskerk
+542,Chaoming Song
+543,Marc Keuschnigg
+544,Vítor V. Vasconcelos
+545,Haewoon Kwak
+546,Niccolo Pescetelli
+547,Alexandru-Ionut Babeanu
+548,Alice Jang
+549,Marcella Morris
+550,Samin Aref
+551,Flaminio Squazzoni
+552,Robert West 
+0,Frank Peter Pijpers
+1,Martin Lukac 
+2, André Grow
+4, Gianmarco De Francisci Morales
+5, Aristides Gionis 
+6, Michael Mathioudakis
+7,Eaman Jahani
+8, Peter Krafft
+9, Yoshihiko Suhara
+10, Esteban Moro 
+11, Alex Pentland
+12,Gabriel Murray
+13,Ivan Smirnov 
+14, Sofia Dokuka
+15,Zhen Zhu
+16, Bart Baesens 
+17, Xu Wang
+18,Yifan Qian 
+19, Pietro Panzarasa
+21,Annie Haakenstad
+22, Margaret McConnell 
+23, Stephane Verguet
+24,Hannes Rosenbusch
+25, Ilse Pit
+26, Florian Wanders
+27,Mi Jin Lee
+28, Eun Lee
+29, Deok-Sun Lee 
+30, Sang Hoon Lee
+31,André Grow 
+32, Jan Van Bavel
+33,Valerie Hase
+34, Kimon Kieslich
+35, Katherine Engelke 
+36, Jing Zeng
+37,Sjoerd Hooijmaaijers 
+38, Gert Buiten
+39,Francesco Granella
+40,Jeroen Bruggeman
+41,Philipp Kling
+42,Andrew Rosenberg
+43,Jan van der Laan 
+44, Edwin de Jonge
+45,Anton Boichenko
+46,Yoosoon An
+47,Huimin Xu
+48, Lingfei Wu 
+49, Cheng-Jun Wang
+50,Zachary Steinert-Threlkeld 
+51, Jungseock Joo
+52,Toshiya Saito 
+53, Takayuki Mizuno
+54,Emily Bello-Pardo
+55, Carly Knight
+56, Jeff Lockhart
+57, Stan Oklobdzija
+58, Iacopo Pozzana
+59, Martijn Schoonvelde 
+60, Carsten Schwemmer
+61,Alessandro Cossard
+63, Yelena Mejova 
+64, Daniela Paolotti
+65,Nicolas Cointe
+66, Amineh Ghorbani 
+67, Caspar Chorus
+68,Nadezhda Sokolova 
+69, Mikhail Sokolov
+71, Alberto Sánchez-Carralero
+72, Jaime Oliver 
+73, Luis C. Reyes
+74,Guy Laban
+75,Bianca Kang 
+76, Ringo Ho
+77,Ryo Hamawaki
+78, Junichi Ozaki
+79, Kiyoshi Izumi
+80, Takashi Shimada
+81, Hiroyasu Matsushima 
+82, Hiroki Sakaji
+83,Sahil Loomba
+84, Till Hoffmann 
+85, Nick Jones
+87, Johannes Wachs
+88, Ákos Jakobi
+89, Riccardo Di Clemente
+90, Bence Ságvári
+91, János Kertész 
+92, Balazs Lengyel
+93,Daniela Gawehns
+94, Guida Veiga 
+95, Matthijs van Leeuwen
+96,Yoshiki Ishikawa 
+97, Takanori Nishida
+98,Elisa Oertel
+99,Peter Ejbye-Ernst
+100, Marie Lindegaard 
+101, Wim Bernasco
+102,Maxime Stauffer
+103, Igor Krawczuk 
+104, Nora Ammann
+105,Kieran Mepham
+106, András Vörös 
+107, Christoph Stadtfeld
+108,Masanori Takano
+109, Fumiaki Taka
+110, Soichiro Morishita
+111, Tomosato Nishi 
+112, Yuki Ogawa
+113,Jeroen van Den Ochtend
+114, Raluca Gui
+115, Markus Meierer 
+116, René Algesheimer
+117,Adrien Benamira
+118, Benjamin Devillers
+119, Etienne Lesot
+120, Ayush K. Rai
+121, Manal Saadi 
+122, Fragkiskos Malliaros
+123,Lorena Cano-Orón
+124,Dimitra Liotsiou 
+125, Philip Howard
+126,Martyn Harris
+127, Mark Levene
+128, Dan Levene 
+129, Dell Zhang
+130,Jianjian Gao
+131, Caterina Gennaioli
+134,Guanghua Chi
+135, Bogdan State
+136, Lada Adamic 
+137, Joshua Blumenstock
+138,Neda Paryab
+139, Alexander Sachs
+140, Andrew Li
+141, Meiyappan Nagappan 
+142, Jesse Hoey
+143,Javier Alvarez-Galvez 
+144, Victor Suarez-Lledo
+145,Dhruv Sapra 
+146, Aniket Alam
+147,Evgenia Dolgova
+148, Zuzana Sasovova 
+149, Michaela Schippers
+150,Alexandre Leroux 
+151, Matteo Gagliolo
+152,Abeer Aldayel 
+153, Walid Magdy
+154,Frederico Francisco 
+155, Joana Gonçalves-Sá
+156,Radim Hladik
+157,Peter Davis 
+158, Roy Lay-Yee
+159,Chunying Wen
+160, Ming Xiao
+161, Xin Sui 
+162, Yimeng Yang
+163,Renáta Németh
+164, Domonkos Sik
+165, Fanni Máté 
+166, Eszter Katona
+168,Arseny Rasov
+169, Viacheslav A. Shibaev 
+170, Ivan Yamshchikov
+171,Anne Cornelia Kroon
+172, Damian Trilling
+173, Antske Fokkens
+174, Felicia Loecherbach
+175, Judith Moeller
+176, Mariken A.C.G. van der Velden 
+177, Wouter Van Atteveldt
+178,Itto Kornecki
+179, Nuno Araujo 
+180, Trivik Verma
+181,Yuki M. Asano 
+182, Gesa Biermann
+184, Alfredo Morales
+185, Dan Calacci
+186, Daniel C. Fehder
+187, Fiona Murray 
+190,Vsevolod Suschevskiy
+191, Ilya Musabirov
+192, Denis Bulygin 
+193, Ekaterina Marchenko
+194,Diego Fregolente Mendes de Oliveira 
+195, Kevin S. Chan
+197, Dániel Kondor 
+198, Gabor Vattay
+199,Douglas Guilbeault
+200, Joshua Becker 
+201, Samuel Woolley
+203, Massimo Riccaboni
+204, Pietro Panzarasa 
+205, Xiancheng Li
+206,Sébastien Lerique 
+207, Camille Roth
+208,Demetris Avraam
+209, Christos Nicolaides
+210,Luis Cueto-Felgueroso
+211, Marta C. Gonzalez
+212, Ruben Juanes
+213,Aleksandra Aloric
+214, Javier Garcia-Bernardo
+216, Allison Morgan
+217, Zohar Neu 
+218, Andrea Santoro
+219,Masashi Miura
+220, Haruhiko Maenami 
+221, Shingo Takahashi
+222,Jianliang Yang
+223, Lin Wang
+224, Chenghua Guan
+225, Alex Pentland 
+226, Xiangfei Yuan
+227,Alicia Eads
+228, Alexandra Schofield
+229, Fauna Mahootian
+230, David Mimno
+232," Rens Wilderom
+"
+233,Qiankun Zhong 
+234, Seth Frey
+235,Svetlana Zhuchkova 
+236, Aleksei Rotmistrov
+238, Jaron Harambam 
+239, Dimitrios Bountouridis
+240,Zahra Sheikhbahaee 
+241, Isabel Valera
+242,Xiaoyu Zhang
+243,Anupama Aggarwal
+244, Claudia Wagner
+245, Fabian Flöck
+246, Ali Aghelmaleki 
+247, Julian Kohne
+248,Tobias Buchmann 
+249, Patrick Wolf
+250,Maayan Levinson
+251, Yuval Benjamini 
+252, Liat Ayalon
+254, Shahad Althobaiti 
+255, Ahmad Alabdulkareem 
+256, Iyad Rahwan
+264,Sofia Dokuka
+265, Maksim Tsvetovat
+266, Kate Furman 
+267, Alex Furman
+268,Zhen Zhu 
+269, Lingqing Jiang
+271, Paul Expert
+273, Mauricio Barahona
+274,Martin Lukac
+277, Dean Eckles
+278,Daniele Rama
+279, Michele Tizzoni
+280, Yelena Mejova
+281, Kyriaki Kalimeri 
+282, Ingmar Weber
+284, Austin Benson 
+285, Johan Ugander
+287, Fariba Karimi
+288, Claudia Wagner 
+289, Kristina Lerman
+290,Je Hoon Chae
+291, Sang Yup Lee
+292,Armin Mertens
+293, Franziska Pradel
+294, Ayjeren Rozyjumayeva 
+295, Jens Wäckerle
+296,Luce le Gorrec
+297, Sandrine Mouysset 
+298, Daniel Ruiz
+300, Michaela Maier
+301, Viktor Aigenseer
+302, Aleksandra Urman 
+303, Clara Christner
+304,Selin Köksal 
+305, Chiara Allegri
+306,Ana Alonso-Curbelo
+308, Benjamin Vandermarliere 
+309, Koen Schoors
+311,Sandra Wankmüller
+312,Yasuhiro Kitakami 
+313, Tomo Ogawa
+315, Ridhi Kashyap
+316, Ingmar Weber 
+317, Masoomali Fatehkia
+318,Hugo de Vos
+319, Suzan Verberne 
+320, Bernard Steunenberg
+321,Ellie Yang
+322, Dhavan Shah
+323, Douglas Mcleod
+324, William Sethares
+325, Zhongkai Sun
+326, Steve Guo 
+327, Xinyi Wang
+328,Henri Kauhanen 
+329, George Walkden
+330,Wenjun Liao 
+331, Chenghua Lin
+332,Satyam Mukherjee 
+333, Tarun Jain
+334,Wojtek Przepiorka 
+335, Andreas Diekmann
+336,Ulf Liebe
+337, Jennifer Gewinner 
+340, Alina Sirbu
+341, Fosca Gianotti 
+342, Dino Pedreschi
+344, Brooke M. Bell
+345, George G. Vega Yon
+346, Abu Sayeed Mondol
+347, Ridwan Alam
+348, Meiyi Ma
+349, Ifat Emi
+350, John Lach
+351, John Stankovic 
+352, Donna Spruijt-Metz
+353,Bruno Toshio Sugano 
+354, Kazutoshi Sasahara
+355,Wim Bernasco
+357, Isabelle Tingzon
+358, Vedran Sekara
+359, Stephanie Sy
+360, Manuel Garcia-Herranz 
+362,Guangqing Chi
+363, Junjun Yin
+364, Jennifer Van Hook
+365, Eric Plutzer 
+366, Heng Xu
+367,Nan Zhang 
+369,Kleber A. Oliveira
+370, Felipe M. Cardoso
+371, Andre Santanche
+372, James P. Gleeson 
+373, Ali Faqeeh
+374,Gerrit Jan de Bruin
+375, Cor Veenman
+376, Jaap van Den Herik 
+377, Frank Takes
+378,Lorenzo Lucchini
+379, Sara Tonelli 
+380, Bruno Lepri
+382, Simon Schweighofer 
+383, David Garcia
+384,Martijn Schoonvelde
+385, Gijs Schumacher 
+386, Christian Pipal
+387,Pablo Lozano
+388, Sergey Gavrilets 
+389, Angel Sanchez
+391, David Rothschild
+392, Duncan Watts
+393, Charles Howland
+394, Markus Mobius
+395, Marcel Wittich 
+396, Melissa Ellamil
+397,Giorgia Ramponi
+398, Mattia Gasparini 
+399, Marco Brambilla
+401, Motahhare Eslami
+402, Johnnatan Messias
+403, Muhammad Bilal Zafar
+404, Saptarshi Ghosh
+405, Krishna Gummadi 
+406, Karrie Karahalios
+407,Kostas Stathoulopoulos
+408,Iraklis Moutidis
+409, Rudy Arthur 
+410, Hywel Williams
+411,Amir Ebrahimi Fard
+412, Haye Hazenberg
+413, Jeroen van den Hoven
+414, Scott Cunningham
+415, Emily Sullivan
+416, Mark Alfano 
+417, Roel Faber
+418,Vadim Voskresenskii
+419,Lilia Perfeito
+420, Paulo Almeida 
+422,Joana Gonçalves-Sá 
+423, Cláudio Vieira
+424,Benjamin Meindl 
+425, Joana Mendonça
+427, Juhi Kulshrestha
+428, Abhijnan Chakraborty
+429, Fabricio Benevenuto
+431, Adrian Weller
+432,Zoya Khan
+433, Priyam Bansal
+434, Mansi Sharma 
+435, Rishabh Kaushal
+437, Wouter van Atteveldt
+438, Chung-Hong Chan
+439, Hartmut Wessler 
+440, Scott Althaus
+441,Zeph M. C. van Berlo
+442,Sreeja Nair
+443, Adriana Iamnitchi 
+444, John Skvoretz
+446,Marius Sältzer 
+447, Samuel Mueller
+448,Alberto Antonioni
+449, María Pereda
+450, Katherine A. Cronin
+451, Marco Tomassini 
+452, Anxo Sanchez
+453,Kyriaki Kalimeri
+454, Mariano Gastón Beiró
+455, Alessandra Urbinati
+456, Andrea Bonanomi
+457, Alessandro Rosina 
+458, Ciro Cattuto
+459,Alla Loseva 
+460, Daniel Alexandrov
+462, Tyler Amos 
+463, Tyler Amos
+464,Daniel Straulino
+465, Chengcheng Li
+466, Sid Ravinutala 
+467, Neave O’Clery
+468,Graham McNeill 
+469, Scott Hale
+470,Isabella Loaiza
+471, Morgan Frank 
+472, Alex ‘Sandy’ Pentland
+473,Parizad Bahardoost
+474,Moritz Müller
+475,Daniel J. Flynn 
+477,Seth Frey
+478, Bryan Bruns 
+479, Curtis Atkisson
+480,Stefano Balietti
+481, Duncan Watts 
+482, Lise Getoor
+483,Khyati Mahajan 
+484, Samira Shaikh
+485,Yibei Chen 
+486, Shaojing Sun
+487,Shen Yan
+488, Homa Hosseinmardi
+489, Hsien-Te Kao
+490, Shrikanth Narayanan
+491, Kristina Lerman 
+492, Emilio Ferrara
+494, Francisco C. Santos 
+495, Alexandre P Francisco
+497, Chathika Gunaratne
+498, Chathurani Senevirathna 
+499, Ivan Garibay
+500,Diliara Valeeva
+501,Clemens Harten
+502,Casandra Ciuchina-Szabo
+503, Jakob Palinger
+504, Juliano Cavalli
+506,Dominika Czerniawska
